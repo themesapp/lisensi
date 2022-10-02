@@ -1,0 +1,14 @@
+{
+  "result": 1,
+  "message": "Success",
+  "lisensi": [
+    {
+      "domain": "idwarta.com",
+      "kode_tema": "kmzwa",
+      "kode_lisensi": "kmzwa-dcd1e-f49e1-5ea20",
+      "tanggal_expaired": "0000-00-00",
+      "versi": "1",
+      "status": "1"
+    }
+  ]
+}
